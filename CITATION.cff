@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Mitigating Data Augmentation bias
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Christian Biffi
+    email: christian.biffi@mail.polimi.it
+    affiliation: Politecnico di Milano
+  - given-names: Alberto Cavallotti
+    email: alberto1.cavallotti@mail.polimi.it
+    affiliation: Politecnico di Milano
+repository-code: 'https://github.com/creix/DataAugmentation_Bias'
