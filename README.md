@@ -4,6 +4,8 @@ This repository hosts the code used for our proposed solution to mitigate the cl
 
 Code is based to run on Google Colaboratory and need to have inside the root folder of Google Drive the TinyImageNet 200 dataset.
 
+**You can find the final report and the paper produced [here](/Report)**
+
 ## Architecture
 In particular our implementation is based on an architecture formed by two different sub-nets, one trained solely with augmented data and the other trained solely on the original data. This approach aims to give more weight on one of the two nets for each specific image based on which of the two nets has a superior performance with that specific data.
 
